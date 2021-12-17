@@ -1,0 +1,57 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?oah83o');
+  src:  url('fonts/icomoon.eot?oah83o#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?oah83o') format('truetype'),
+    url('fonts/icomoon.woff?oah83o') format('woff'),
+    url('fonts/icomoon.svg?oah83o#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-bottled_water_beverage_bottle_icon1:before {
+  content: "\e91b";
+}
+.icon-close:before {
+  content: "\e91c";
+}
+.icon-facebook:before {
+  content: "\e91d";
+}
+.icon-instagram:before {
+  content: "\e91e";
+}
+.icon-mail:before {
+  content: "\e91f";
+}
+.icon-map-pin:before {
+  content: "\e920";
+}
+.icon-menu:before {
+  content: "\e921";
+}
+.icon-whatsapp:before {
+  content: "\e922";
+}
+.icon-youtube:before {
+  content: "\e923";
+}
+.icon-phone:before {
+  content: "\e924";
+}
